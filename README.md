@@ -1,4 +1,4 @@
-👋 Hello World! Welcome to my profile. I'm a passionate full-stack developer specializing in ASP.NET MVC, React, and SQL. 🚀
+👋 Hello World! Welcome to my profile 🚀
 
 🌟 About Me:
 - 💻 Full-stack developer with a passion for crafting robust web applications.
