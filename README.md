@@ -10,9 +10,9 @@
 🛠️ Tech Stack:
 - ⚙️ ASP.NET Core | ASP.NET MVC | Web Api
 - ⚛️ React | Redux | React Router
-- 📦 Entity Framework | ADO.Net | SQL Server
+- 📦 Entity Framework | ADO.Net | SQL Server | Dapper
 - 🌐 HTML | CSS | JavaScript
-- 🔧 Git | Visual Studio Code | Visual Studio
+- 🔧 Git | Visual Studio Code | Visual Studio | Github Actions
 - 🌍 Building RESTful APIs 
 
 
