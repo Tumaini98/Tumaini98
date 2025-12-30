@@ -17,7 +17,7 @@
 
 
 🌐 Connect with Me:
-- 📫 Feel free to reach out: Joshuaukiru@gmai.com
+- 📫 Feel free to reach out: Joshuaukiru@gmail.com
 - 💼 Check out my [LinkedIn Profile](https://www.linkedin.com/in/joshua-ukiru/)
 
 🚀 I'm always excited to collaborate, innovate, and contribute to exciting projects. Let's work together to build amazing things! 🌟
