@@ -1,24 +1,48 @@
-👋 Hello World! Welcome to my profile 🚀
-
-🌟 About Me:
-- 💻 Full-stack developer with a passion for crafting robust web applications.
-- 🌐 Proficient in ASP.NET Core, React, and SQL, with a focus on creating seamless user experiences.
-- 📊 Experienced in database design, optimization, and management to ensure data-driven solutions.
-- 🧩 A problem solver who enjoys taking on complex challenges and finding elegant solutions.
-- 🚀 Committed to continuous learning, always staying up-to-date with the latest technologies.
-
-🛠️ Tech Stack:
-- ⚙️ ASP.NET Core | ASP.NET MVC | Web Api
-- ⚛️ React | Redux | React Router
-- 📦 Entity Framework | ADO.Net | SQL Server | Dapper
-- 🌐 HTML | CSS | JavaScript
-- 🔧 Git | Visual Studio Code | Visual Studio | Github Actions
-- 🌍 Building RESTful APIs 
+<<!-- Banner image -->
 
 
-🌐 Connect with Me:
-- 📫 Feel free to reach out: Joshuaukiru@gmail.com
-- 💼 Check out my [LinkedIn Profile](https://www.linkedin.com/in/joshua-ukiru/)
+### Hey there 👋 I’m Josh
 
-🚀 I'm always excited to collaborate, innovate, and contribute to exciting projects. Let's work together to build amazing things! 🌟
+I build **robust** web applications and services with a focus on performance, maintainability and delightful user experiences. My day–to–day work ranges from designing RESTful APIs in **C#** to crafting interactive interfaces with **React** and **TypeScript**. When I’m not coding, you can find me exploring new technologies, refining database queries in **SQL** or contributing to open‑source projects.
 
+## 🔨 Tech Stack
+
+<!-- Icons from https://github.com/devicons/devicon  -->
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt=".NET" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQL" width="40" height="40" />
+</p>
+
+## 📊 GitHub Stats & Streak
+
+<!-- Replace Tumaini98 with your GitHub username -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tumaini98&show_icons=true&count_private=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tumaini98&layout=compact&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=Tumaini98&theme=radical)
+
+## 📍 Highlight Projects
+
+Here are a few projects that showcase my capabilities. For more, check out the pinned repositories on my profile.
+
+- **Project One** – A concise description of what this project does and why it matters. [Demo](#) ・ [Code](#)
+- **Project Two** – Briefly outline the problem solved and technologies used. [Demo](#) ・ [Code](#)
+- **Project Three** – Summarise the purpose and unique features. [Demo](#) ・ [Code](#)
+
+## 🔗 Get in touch
+
+Feel free to reach out if you’d like to collaborate or just say hello:
+
+- [LinkedIn](#)
+- [Email](mailto:your.email@example.com)
+
+<!--
+Add a note about private contributions if your public activity seems sparse
+-->
+
+<sub>Most of my recent work is in private repositories at my current employer. The projects above represent my personal and open‑source work.</sub>
