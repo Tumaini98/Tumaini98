@@ -1,4 +1,4 @@
-<<!-- Banner image -->
+<!-- Banner image -->
 
 
 ### Hey there 👋 I’m Josh
