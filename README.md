@@ -1,9 +1,10 @@
 <!-- Banner image -->
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding animation" width="100%" />
 
 ### Hey there 👋 I’m Josh
 
 I build **robust** web applications and services with a focus on performance, maintainability and delightful user experiences. My day-to-day work ranges from designing RESTful APIs in **C#** to crafting interactive interfaces with **React** and **TypeScript**. When I’m not coding, you can find me exploring new technologies, refining database queries in **SQL** or contributing to open-source projects.
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding animation" width="100%" />
 
 ## 🛠 Tech Stack
 
@@ -20,9 +21,9 @@ I build **robust** web applications and services with a focus on performance, ma
 ## 📊 GitHub Stats & Streak
 
 <!-- Stats generated via self-hosted workflow -->
-![GitHub Stats](./profile/stats.svg)
-![Top Languages](./profile/top-langs.svg)
-![GitHub Streak](https://streak-stats.demolab.com/?user=Tumaini98&theme=radical)
+<img src="./profile/stats.svg" alt="GitHub Stats" />
+<img src="./profile/top-langs.svg" alt="Top Languages" />
+!![GitHub Streak](https://streak-stats.demolab.com/?user=Tumaini98&theme=radical)
 
 ## 🤝 Get in touch
 
