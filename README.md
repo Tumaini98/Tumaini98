@@ -1,29 +1,46 @@
+<!-- ========================================================= -->
+<!--                     JOSHUA UKIRU PROFILE                  -->
+<!-- ========================================================= -->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:7c3aed,100:06b6d4&height=220&section=header&text=Joshua%20Ukiru&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20C%23%20%7C%20React%20%7C%20TypeScript%20%7C%20SQL&descAlignY=58&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=280&color=0:020617,35:312e81,70:7c3aed,100:06b6d4&text=Joshua%20Ukiru&fontColor=ffffff&fontSize=64&animation=twinkling&stroke=22d3ee&strokeWidth=1&desc=Full-Stack%20Developer%20•%20C%23%20•%20React%20•%20TypeScript%20•%20SQL&descSize=18&descAlignY=68" />
 
-### I build clean, reliable web applications with elegant backends and sharp frontends.
+<br />
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-joshua.ukiru.com-06B6D4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://joshua.ukiru.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Joshua%20Ukiru-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joshua-ukiru/)
-[![Email](https://img.shields.io/badge/Email-joshuaukiru%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joshuaukiru@gmail.com)
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=26&duration=2600&pause=700&color=22D3EE&center=true&vCenter=true&width=900&lines=I+build+clean+software+with+sharp+edges.;REST+APIs.+React+interfaces.+SQL+systems.;Simple+code.+Strong+architecture.+Real+products.;Turning+ideas+into+production-ready+apps." alt="Typing animation" />
+
+<br />
+<br />
+
+<a href="https://joshua.ukiru.com/">
+  <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Site-22D3EE?style=for-the-badge&logo=vercel&logoColor=black" />
+</a>
+<a href="https://www.linkedin.com/in/joshua-ukiru/">
+  <img src="https://img.shields.io/badge/LinkedIn-Joshua%20Ukiru-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:joshuaukiru@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
 </div>
 
----
+<br />
 
-## 👋 About Me
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
-I’m **Josh**, a full-stack web developer focused on building software that feels smooth, useful, and durable.
-
-My work lives where clean architecture meets real user needs: REST APIs, responsive interfaces, database design, performance, and maintainable code. I enjoy turning rough ideas into polished products with a strong foundation under the hood.
+## 🧬 About Me
 
 ```csharp
-var developer = new
+public sealed class JoshuaUkiru
 {
-    Name = "Joshua Ukiru",
-    Role = "Full-Stack Developer",
-    Location = "Frisco, Texas",
-    Focus = new[] { "C#", ".NET", "React", "TypeScript", "SQL" },
-    CurrentMindset = "Build simple. Build clean. Build to last."
-};
+    public string Role => "Full-Stack Developer";
+
+    public string Location => "Frisco, Texas";
+
+    public string[] CoreStack => ["C#", ".NET", "React", "TypeScript", "SQL"];
+
+    public string CurrentFocus => "Building clean, useful, production-ready software";
+
+    public string EngineeringStyle => "Simple, readable, maintainable, and built to last";
+}
