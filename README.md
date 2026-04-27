@@ -1,33 +1,29 @@
-<!-- Banner image -->
+<div align="center">
 
-### Hey there 👋 I’m Josh
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:7c3aed,100:06b6d4&height=220&section=header&text=Joshua%20Ukiru&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20C%23%20%7C%20React%20%7C%20TypeScript%20%7C%20SQL&descAlignY=58&descSize=18" />
 
-I build **robust** web applications and services with a focus on performance, maintainability and delightful user experiences. My day-to-day work ranges from designing RESTful APIs in **C#** to crafting interactive interfaces with **React** and **TypeScript**. When I’m not coding, you can find me exploring new technologies, refining database queries in **SQL** or contributing to open-source projects.
+### I build clean, reliable web applications with elegant backends and sharp frontends.
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding animation" width="100%" />
+[![Portfolio](https://img.shields.io/badge/Portfolio-joshua.ukiru.com-06B6D4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://joshua.ukiru.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Joshua%20Ukiru-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joshua-ukiru/)
+[![Email](https://img.shields.io/badge/Email-joshuaukiru%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joshuaukiru@gmail.com)
 
-## 🛠 Tech Stack
+</div>
 
-<!-- Icons from https://github.com/devicons/devicon  -->
-<p>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt=".NET" width="40" height="40" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sql/sql-original.svg" alt="SQL" width="40" height="40" />
-</p>
+---
 
-## 📊 GitHub Stats & Streak
+## 👋 About Me
 
-<!-- Stats generated via self-hosted workflow -->
-<img src="./profile/stats.svg" alt="GitHub Stats" />
-<img src="./profile/top-langs.svg" alt="Top Languages" />
-!![GitHub Streak](https://streak-stats.demolab.com/?user=Tumaini98&theme=radical)
+I’m **Josh**, a full-stack web developer focused on building software that feels smooth, useful, and durable.
 
-## 🤝 Get in touch
+My work lives where clean architecture meets real user needs: REST APIs, responsive interfaces, database design, performance, and maintainable code. I enjoy turning rough ideas into polished products with a strong foundation under the hood.
 
-Feel free to reach out if you’d like to collaborate or just say hello:
-
-- [LinkedIn](https://www.linkedin.com/in/joshua-ukiru)
-- [Email](mailto:joshuaukiru@gmail.com)
+```csharp
+var developer = new
+{
+    Name = "Joshua Ukiru",
+    Role = "Full-Stack Developer",
+    Location = "Frisco, Texas",
+    Focus = new[] { "C#", ".NET", "React", "TypeScript", "SQL" },
+    CurrentMindset = "Build simple. Build clean. Build to last."
+};
