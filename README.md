@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=280&color=0:020617,35:312e81,70:7c3aed,100:06b6d4&text=Joshua%20Ukiru&fontColor=ffffff&fontSize=64&animation=twinkling&stroke=22d3ee&strokeWidth=1&desc=Full-Stack%20Developer%20•%20C%23%20•%20React%20•%20TypeScript%20•%20SQL&descSize=18&descAlignY=68" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=280&color=0:020617,35:312e81,70:7c3aed,100:06b6d4&text=Joshua%20Ukiru&fontColor=ffffff&fontSize=64&animation=twinkling&stroke=22d3ee&strokeWidth=1&desc=Full-Stack%20Developer%20•%20C%23%20•%20React%20•%20TypeScript%20•%20SQL&descSize=18&descAlignY=68" alt="Joshua Ukiru banner" />
 
 <br />
 
@@ -14,20 +14,20 @@
 <br />
 
 <a href="https://joshua.ukiru.com/">
-  <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Site-22D3EE?style=for-the-badge&logo=vercel&logoColor=black" />
+  <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Site-22D3EE?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio" />
 </a>
 <a href="https://www.linkedin.com/in/joshua-ukiru/">
-  <img src="https://img.shields.io/badge/LinkedIn-Joshua%20Ukiru-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-Joshua%20Ukiru-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="mailto:joshuaukiru@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 
 </div>
 
 <br />
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="Rainbow divider" />
 
 ## 🧬 About Me
 
@@ -64,16 +64,16 @@ I work across the stack, from **C# APIs** and **SQL databases** to **React** and
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cs,dotnet,js,ts,react,html,css,bootstrap,tailwind,sqlserver,git,github,visualstudio,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=cs,dotnet,js,ts,react,html,css,bootstrap,tailwind,git,github,visualstudio,vscode&theme=dark" alt="Tech stack icons" />
 
 <br />
 <br />
 
-<img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-<img src="https://img.shields.io/badge/.NET-7C3AED?style=for-the-badge&logo=dotnet&logoColor=white" />
-<img src="https://img.shields.io/badge/React-22D3EE?style=for-the-badge&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/TypeScript-2563EB?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-0891B2?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+<img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="C#" />
+<img src="https://img.shields.io/badge/.NET-7C3AED?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
+<img src="https://img.shields.io/badge/React-22D3EE?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+<img src="https://img.shields.io/badge/TypeScript-2563EB?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/SQL-0891B2?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL" />
 
 </div>
 
@@ -128,21 +128,21 @@ const frontend = [
 <table>
 <tr>
 <td align="center" width="33%">
-<img src="https://img.icons8.com/fluency/96/source-code.png" width="60" />
+<img src="https://img.icons8.com/fluency/96/source-code.png" width="60" alt="Source code icon" />
 <br />
 <b>Readable Code</b>
 <br />
 <sub>Code should explain itself before a comment has to.</sub>
 </td>
 <td align="center" width="33%">
-<img src="https://img.icons8.com/fluency/96/database.png" width="60" />
+<img src="https://img.icons8.com/fluency/96/database.png" width="60" alt="Database icon" />
 <br />
 <b>Strong Data Flow</b>
 <br />
 <sub>Good software starts with clear data movement.</sub>
 </td>
 <td align="center" width="33%">
-<img src="https://img.icons8.com/fluency/96/rocket.png" width="60" />
+<img src="https://img.icons8.com/fluency/96/rocket.png" width="60" alt="Rocket icon" />
 <br />
 <b>Production Mindset</b>
 <br />
@@ -159,12 +159,6 @@ const frontend = [
 
 <div align="center">
 
-<img width="49%" src="./profile/stats.svg" alt="GitHub Stats" />
-<img width="49%" src="./profile/top-langs.svg" alt="Top Languages" />
-
-<br />
-<br />
-
 <img width="70%" src="https://streak-stats.demolab.com?user=Tumaini98&theme=tokyonight-duo&hide_border=true&border_radius=14&background=0D1117&stroke=22D3EE&ring=7C3AED&fire=F97316&currStreakLabel=22D3EE" alt="GitHub Streak" />
 
 <br />
@@ -176,25 +170,11 @@ const frontend = [
 
 ---
 
-## 🏆 Trophies
-
-<div align="center">
-
-<img width="95%" src="https://github-profile-trophy.vercel.app/?username=Tumaini98&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&margin-h=12&column=4" alt="GitHub Trophies" />
-
-</div>
-
----
-
 ## 🐍 Contribution Snake
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tumaini98/Tumaini98/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tumaini98/Tumaini98/output/github-snake.svg" />
-  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Tumaini98/Tumaini98/output/github-snake.svg" />
-</picture>
+<img src="https://raw.githubusercontent.com/Tumaini98/Tumaini98/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" />
 
 </div>
 
@@ -212,13 +192,13 @@ and software ideas that deserve to exist.
 <br />
 
 <a href="https://joshua.ukiru.com/">
-  <img src="https://img.shields.io/badge/Portfolio-joshua.ukiru.com-22D3EE?style=for-the-badge&logo=google-chrome&logoColor=black" />
+  <img src="https://img.shields.io/badge/Portfolio-joshua.ukiru.com-22D3EE?style=for-the-badge&logo=google-chrome&logoColor=black" alt="Portfolio" />
 </a>
 <a href="https://www.linkedin.com/in/joshua-ukiru/">
-  <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="mailto:joshuaukiru@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 
 </div>
@@ -227,6 +207,6 @@ and software ideas that deserve to exist.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=160&section=footer&color=0:06b6d4,50:7c3aed,100:020617&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=160&section=footer&color=0:06b6d4,50:7c3aed,100:020617&animation=twinkling" alt="Footer wave" />
 
 </div>
