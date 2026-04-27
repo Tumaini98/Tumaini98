@@ -44,3 +44,189 @@ public sealed class JoshuaUkiru
 
     public string EngineeringStyle => "Simple, readable, maintainable, and built to last";
 }
+```
+
+I’m a **full-stack developer** who enjoys building software that feels calm on the surface and strong underneath.
+
+I work across the stack, from **C# APIs** and **SQL databases** to **React** and **TypeScript** interfaces. My favorite kind of software is simple to use, easy to maintain, and sturdy enough to survive real users.
+
+<br />
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/213760677-e45ca5f7-d0a2-4c6d-9c4b-0d6e7f36c09d.gif" width="500" alt="Developer animation" />
+
+</div>
+
+---
+
+## ⚡ Tech Arsenal
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=cs,dotnet,js,ts,react,html,css,bootstrap,tailwind,sqlserver,git,github,visualstudio,vscode&theme=dark" />
+
+<br />
+<br />
+
+<img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+<img src="https://img.shields.io/badge/.NET-7C3AED?style=for-the-badge&logo=dotnet&logoColor=white" />
+<img src="https://img.shields.io/badge/React-22D3EE?style=for-the-badge&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/TypeScript-2563EB?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-0891B2?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+
+</div>
+
+---
+
+## 🛠️ What I Build
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🌌 Backend Systems
+
+```csharp
+var backend = new[]
+{
+    "REST APIs",
+    "Service layers",
+    "Authentication",
+    "Role-based access",
+    "SQL-backed workflows",
+    "Clean architecture"
+};
+```
+
+</td>
+<td width="50%" valign="top">
+
+### 🪐 Frontend Experiences
+
+```tsx
+const frontend = [
+  "React dashboards",
+  "TypeScript components",
+  "Responsive screens",
+  "Clean user flows",
+  "Polished UI systems",
+  "Practical UX"
+];
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🧠 Engineering Principles
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://img.icons8.com/fluency/96/source-code.png" width="60" />
+<br />
+<b>Readable Code</b>
+<br />
+<sub>Code should explain itself before a comment has to.</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://img.icons8.com/fluency/96/database.png" width="60" />
+<br />
+<b>Strong Data Flow</b>
+<br />
+<sub>Good software starts with clear data movement.</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://img.icons8.com/fluency/96/rocket.png" width="60" />
+<br />
+<b>Production Mindset</b>
+<br />
+<sub>Build it like real people will depend on it.</sub>
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 📊 GitHub Constellation
+
+<div align="center">
+
+<img width="49%" src="./profile/stats.svg" alt="GitHub Stats" />
+<img width="49%" src="./profile/top-langs.svg" alt="Top Languages" />
+
+<br />
+<br />
+
+<img width="70%" src="https://streak-stats.demolab.com?user=Tumaini98&theme=tokyonight-duo&hide_border=true&border_radius=14&background=0D1117&stroke=22D3EE&ring=7C3AED&fire=F97316&currStreakLabel=22D3EE" alt="GitHub Streak" />
+
+<br />
+<br />
+
+<img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tumaini98&theme=tokyonight" alt="GitHub Profile Summary" />
+
+</div>
+
+---
+
+## 🏆 Trophies
+
+<div align="center">
+
+<img width="95%" src="https://github-profile-trophy.vercel.app/?username=Tumaini98&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&margin-h=12&column=4" alt="GitHub Trophies" />
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tumaini98/Tumaini98/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tumaini98/Tumaini98/output/github-snake.svg" />
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Tumaini98/Tumaini98/output/github-snake.svg" />
+</picture>
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+```txt
+Open to collaboration, useful products, clean architecture,
+and software ideas that deserve to exist.
+```
+
+<br />
+
+<a href="https://joshua.ukiru.com/">
+  <img src="https://img.shields.io/badge/Portfolio-joshua.ukiru.com-22D3EE?style=for-the-badge&logo=google-chrome&logoColor=black" />
+</a>
+<a href="https://www.linkedin.com/in/joshua-ukiru/">
+  <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:joshuaukiru@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</div>
+
+<br />
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=160&section=footer&color=0:06b6d4,50:7c3aed,100:020617&animation=twinkling" />
+
+</div>
